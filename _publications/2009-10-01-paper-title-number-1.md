@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Short-Term Fog Forecasting using Meteorological Observations at Airports in North India"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/fog-forecasting/
+excerpt: "We develop data science models for short-term fog prediction using historical METAR data (1974–2021) at North Indian airports. Results show strong classification and regression performance for visibility prediction. A web system is deployed at https://fog.iitk.ac.in."
+date: 2024-01-15
+authors: "Shruti Sharma, Kriti Bajaj, Prasad Deshpande, Arnab Bhattacharya, Shivam Tripathi"
+venue: "Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD), ACM"
+paperurl: "https://dl.acm.org/doi/10.1145/3632410.3632449"
+doi: "10.1145/3632410.3632449"
+citation: "Shruti Sharma, Kriti Bajaj, Prasad Deshpande, Arnab Bhattacharya, and Shivam Tripathi. 2024. *Short-Term Fog Forecasting using Meteorological Observations at Airports in North India*. In Proceedings of the 7th Joint International Conference on Data Science & Management of Data (CODS-COMAD 2024), ACM, New York, NY, USA, pp. 307–315."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
