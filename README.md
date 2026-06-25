@@ -10,7 +10,7 @@ I work at the intersection of **hydrometeorology, remote sensing, and machine le
 ## 🎓 Education & 💼 Experience
 
 ### 🔹 Postdoctoral Researcher — *Kansas State University*  
-*Feb 2025 – Present | Manhattan, KS*  
+*Jan 2025 – Present | Manhattan, KS*  
 - Working on **evapotranspiration forecasting** and crop water-use analysis using **OpenET**, eddy covariance flux towers, UAV imagery, and in-situ sensors.  
 - Contributing to interdisciplinary research in **agro-hydrology, hydro-meteorology, and climate resilience**. [web:201][web:204]
 
